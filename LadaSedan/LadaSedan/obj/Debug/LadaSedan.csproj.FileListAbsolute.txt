@@ -1,0 +1,16 @@
+c:\users\irina\documents\visual studio 2017\Projects\LadaSedan\LadaSedan\obj\Debug\LadaSedan.csprojResolveAssemblyReference.cache
+c:\users\irina\documents\visual studio 2017\Projects\LadaSedan\LadaSedan\bin\Debug\LadaSedan.exe.config
+c:\users\irina\documents\visual studio 2017\Projects\LadaSedan\LadaSedan\bin\Debug\LadaSedan.exe
+c:\users\irina\documents\visual studio 2017\Projects\LadaSedan\LadaSedan\bin\Debug\LadaSedan.pdb
+c:\users\irina\documents\visual studio 2017\Projects\LadaSedan\LadaSedan\bin\Debug\Model.dll
+c:\users\irina\documents\visual studio 2017\Projects\LadaSedan\LadaSedan\bin\Debug\Model.pdb
+c:\users\irina\documents\visual studio 2017\Projects\LadaSedan\LadaSedan\obj\Debug\LadaSedan.exe
+c:\users\irina\documents\visual studio 2017\Projects\LadaSedan\LadaSedan\obj\Debug\LadaSedan.pdb
+C:\Users\Anastasia\Desktop\HWGitHub\LadaSedan\LadaSedan\bin\Debug\LadaSedan.exe.config
+C:\Users\Anastasia\Desktop\HWGitHub\LadaSedan\LadaSedan\bin\Debug\LadaSedan.exe
+C:\Users\Anastasia\Desktop\HWGitHub\LadaSedan\LadaSedan\bin\Debug\LadaSedan.pdb
+C:\Users\Anastasia\Desktop\HWGitHub\LadaSedan\LadaSedan\bin\Debug\Model.dll
+C:\Users\Anastasia\Desktop\HWGitHub\LadaSedan\LadaSedan\bin\Debug\Model.pdb
+C:\Users\Anastasia\Desktop\HWGitHub\LadaSedan\LadaSedan\obj\Debug\LadaSedan.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\HWGitHub\LadaSedan\LadaSedan\obj\Debug\LadaSedan.exe
+C:\Users\Anastasia\Desktop\HWGitHub\LadaSedan\LadaSedan\obj\Debug\LadaSedan.pdb

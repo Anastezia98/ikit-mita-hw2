@@ -1,0 +1,10 @@
+c:\users\irina\documents\visual studio 2017\Projects\LadaSedan\Model\bin\Debug\Model.dll
+c:\users\irina\documents\visual studio 2017\Projects\LadaSedan\Model\bin\Debug\Model.pdb
+c:\users\irina\documents\visual studio 2017\Projects\LadaSedan\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\irina\documents\visual studio 2017\Projects\LadaSedan\Model\obj\Debug\Model.dll
+c:\users\irina\documents\visual studio 2017\Projects\LadaSedan\Model\obj\Debug\Model.pdb
+C:\Users\Anastasia\Desktop\HWGitHub\LadaSedan\Model\bin\Debug\Model.dll
+C:\Users\Anastasia\Desktop\HWGitHub\LadaSedan\Model\bin\Debug\Model.pdb
+C:\Users\Anastasia\Desktop\HWGitHub\LadaSedan\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Anastasia\Desktop\HWGitHub\LadaSedan\Model\obj\Debug\Model.dll
+C:\Users\Anastasia\Desktop\HWGitHub\LadaSedan\Model\obj\Debug\Model.pdb
